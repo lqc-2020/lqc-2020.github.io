@@ -1,9 +1,4 @@
 layout: page
 title: "test"
 permalink: /about/test
-<html>
-<title>pytest中文文档下载</title>
-<body>
-	
-</body>
-</html>
+pytest中文文档下载
